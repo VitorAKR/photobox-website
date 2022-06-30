@@ -8,5 +8,5 @@
 | Pexels API | https://www.pexels.com/api/documentation/ |
 
 
-### See the final result below / Veja o rseultado final abaixo:
+### See the final result below / Veja o resultado final abaixo:
 ![Result](/index.png)
